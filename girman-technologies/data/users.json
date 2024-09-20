@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alice",
+    "lastName": "Smith",
+    "email": "alice.smith@example.com",
+    "phoneNumber": "+1-555-0101",
+    "address": "456 Elm St, Springfield, IL, 62702",
+    "company": "Innovatech",
+    "jobTitle": "Project Manager"
+  },
+  {
+    "id": 2,
+    "firstName": "Bob",
+    "lastName": "Johnson",
+    "email": "bob.johnson@example.com",
+    "phoneNumber": "+1-555-0102",
+    "address": "789 Maple Ave, Springfield, IL, 62703",
+    "company": "Tech Solutions Inc.",
+    "jobTitle": "Software Engineer"
+  },
+  {
+    "id": 3,
+    "firstName": "Charlie",
+    "lastName": "Williams",
+    "email": "charlie.williams@example.com",
+    "phoneNumber": "+1-555-0103",
+    "address": "321 Oak St, Springfield, IL, 62704",
+    "company": "Web Services LLC",
+    "jobTitle": "UX Designer"
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Brown",
+    "email": "david.brown@example.com",
+    "phoneNumber": "+1-555-0104",
+    "address": "654 Pine St, Springfield, IL, 62705",
+    "company": "Data Insights Corp.",
+    "jobTitle": "Data Analyst"
+  },
+  {
+    "id": 5,
+    "firstName": "Eva",
+    "lastName": "Davis",
+    "email": "eva.davis@example.com",
+    "phoneNumber": "+1-555-0105",
+    "address": "987 Cedar St, Springfield, IL, 62706",
+    "company": "Marketing Pros",
+    "jobTitle": "Marketing Specialist"
+  },
+  {
+    "id": 6,
+    "firstName": "Frank",
+    "lastName": "Miller",
+    "email": "frank.miller@example.com",
+    "phoneNumber": "+1-555-0106",
+    "address": "135 Birch St, Springfield, IL, 62707",
+    "company": "Finance Group Inc.",
+    "jobTitle": "Accountant"
+  },
+  {
+    "id": 7,
+    "firstName": "Grace",
+    "lastName": "Wilson",
+    "email": "grace.wilson@example.com",
+    "phoneNumber": "+1-555-0107",
+    "address": "246 Spruce St, Springfield, IL, 62708",
+    "company": "Health Solutions LLC",
+    "jobTitle": ".NET Developer"
+  },
+  {
+    "id": 8,
+    "firstName": "Henry",
+    "lastName": 'Moore',
+    'email': 'henry.moore@example.com',
+    'phoneNumber': '+1-555-0108',
+    'address': '357 Fir St, Springfield, IL, 62709',
+    'company': 'E-commerce Inc.',
+    'jobTitle': 'Product Manager'
+  },
+ {
+   'id': 9,
+   'firstName': 'Isabella',
+   'lastName': 'Taylor',
+   'email': 'isabella.taylor@example.com',
+   'phoneNumber': '+1-555-0109',
+   'address': '468 Walnut St, Springfield, IL, 62710',
+   'company': 'Creative Agency',
+   'jobTitle': 'Graphic Designer'
+ },
+ {
+   'id': 10,
+   'firstName': 'Jack',
+   'lastName': 'Anderson',
+   'email': 'jack.anderson@example.com',
+   'phoneNumber': '+1-555-0110',
+   'address': '579 Chestnut St, Springfield, IL, 62711',
+   'company': 'Consulting Group',
+   'jobTitle': 'Business Consultant'
+ },
+ {
+   'id': 11,
+   'firstName': 'Kathy',
+   'lastName': 'Thomas',
+   'email': 'kathy.thomas@example.com',
+   'phoneNumber': '+1-555-0111',
+   'address': '680 Ash St, Springfield, IL, 62712',
+   'company': 'Logistics Co.',
+   'jobTitle': 'Operations Manager'
+ },
+ {
+   'id': 12,
+   'firstName': 'Liam',
+   'lastName': 'Jackson',
+   'email': 'liam.jackson@example.com',
+   'phoneNumber': '+1-555-0112',
+   'address': '791 Poplar St, Springfield, IL, 62713',
+   'company': 'Retail Group Inc.',
+   'jobTitle': '.NET Developer'
+ },
+ {
+   'id': 13,
+   'firstName': 'Mia',
+   'lastName':'White',
+   email: mia.white@example.com,
+   phoneNumber: +1-555-0113,
+   address: 902 Willow St, Springfield, IL, 62714,
+   company: Marketing Solutions LLC,
+   jobTitle: Marketing Manager
+ },
+ {
+     id:14,
+     firstName:'Noah',
+     lastName:'Harris',
+     email:'noah.harris@example.com',
+     phoneNumber:'+1-555-0114',
+     address:'1030 Maplewood Dr., Springfield IL.,62715',
+     company:'IT Services Corp.',
+     jobTitle:'Systems Analyst'
+ },
+ {
+     id:15,
+     firstName:'Olivia', 
+     lastName:'Clark', 
+     email:'olivia.clark@example.com', 
+     phoneNumber:'+1-555-0115', 
+     address:'1140 River Rd., Springfield IL.,62716', 
+     company:'HR Consulting', 
+     jobTitle:'Recruiter'
+ },
+ {
+     id:16,
+     firstName:'Paul', 
+     lastName:'Lewis', 
+     email:'paul.lewis@example.com', 
+     phoneNumber:'+1-555-0116', 
+     address:'1250 Hilltop Dr., Springfield IL.,62717', 
+     company:'Construction Co.', 
+     jobTitle:'Site Supervisor'
+ },
+ {
+     id:17,
+     firstName:'Quinn', 
+     lastName:'Robinson', 
+     email:'quinn.robinson@example.com', 
+     phoneNumber:'+1-555-0117', 
+     address:'1360 Lakeview Ct., Springfield IL.,62718', 
+     company:'Real Estate Firm', 
+     jobTitle:'Real Estate Agent'
+ },
+ {
+     id:18,
+     firstName:'Rachel', 
+     lastName:'Walker', 
+     email:'rachel.walker@example.com', 
+     phoneNumber:'+1-555-0118', 
+     address:'1470 Sunset Blvd., Springfield IL.,62719', 
+     company:'Insurance Agency', 
+     jobTitle:'Claims Adjuster'
+ },
+ {
+      id:19,
+      firstName:‘Samuel’, 
+      lastName:‘Hall’, 
+      email:‘samuel.hall@example.com’, 
+      phoneNumber:‘+1-555-0119’, 
+      address:‘1580 Mountain View Dr., Springfield IL.,62720’, 
+      company:‘Telecom Services’,  
+      jobTitle:‘Network Engineer’
+},
+{
+      id:20,
+      firstName:‘Tina’,  
+      lastName:‘Young’,  
+      email:‘tina.young@example.com’,  
+      phoneNumber:‘+1-555-0120’,  
+      address:‘1690 Ocean Ave., Springfield IL.,62721’,  
+      company:‘Travel Agency’,  
+      jobTitle:‘Travel Consultant’
+}
+]
